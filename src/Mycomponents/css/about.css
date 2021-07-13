@@ -1,0 +1,17 @@
+.card{
+    background-color: rgb(226, 94, 238);
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px;
+    height:auto;
+    
+}
+.card-text{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.head{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+
+}

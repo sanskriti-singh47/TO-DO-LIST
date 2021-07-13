@@ -1,0 +1,15 @@
+.navbar{
+    
+    background-color:rgba(187, 2, 204, 0.993);
+}
+.navbar-brand{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+.nav-link{
+ color: black;
+}
+p{
+    color:black;
+}
